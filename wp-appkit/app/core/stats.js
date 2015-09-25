@@ -2,6 +2,8 @@ define( function( require ) {
 
 	"use strict";
 
+	//Test de modif sur development-test 2
+	
 	var Backbone = require( 'backbone' ),
 			Config = require( 'root/config' ),
 			_ = require( 'underscore' );
