@@ -9,6 +9,8 @@ define(function (require) {
 		Hooks               = require('core/lib/hooks'),
 		Utils               = require('core/app-utils');
 
+	//Test de modif sur feature-test 3
+		
 	Backbone.View.prototype.close = function(){
 
 		//We also have to remove Views Models and Collections events by hand + handle closing subviews :
