@@ -167,5 +167,6 @@ class WpakComponentsTypes {
 
 //Include native component types :
 require_once(dirname( __FILE__ ) . '/components-types/posts-list.php');
+require_once(dirname( __FILE__ ) . '/components-types/bulk-posts-lists.php');
 require_once(dirname( __FILE__ ) . '/components-types/page.php');
 require_once(dirname( __FILE__ ) . '/components-types/hooks.php');
